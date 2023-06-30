@@ -7,9 +7,9 @@ This project focuses on generating descriptive captions for images using a combi
 2. **RNN Model:** An RNN model is employed to generate captions based on the image features extracted by the CNN.
 
 ## Example
-**Input Image**
+### Input Image
 ![](https://github.com/Rutvik1727/Image-Captioning/blob/main/Images/img%20(1).png)
-**Generated captions**
+### Generated captions
 ```
 ['<SOS>', 'a', 'brown', 'and', 'white', 'dog', 'with', 'a', 'ball', 'on', 'some', 'grass', '.', '<EOS>', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.']
 ```
